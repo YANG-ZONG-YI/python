@@ -1,0 +1,12 @@
+'revAvailabilitySearch.SearchInfo.Direction':' Return',
+'revAvailabilitySearch.SearchInfo.SearchStations[0].DepartureStationCode':' TPE',
+'revAvailabilitySearch.SearchInfo.SearchStations[0].ArrivalStationCode':' NRT',
+'revAvailabilitySearch.SearchInfo.SearchStations[0].DepartureDate':' 03/26/2019',
+'revAvailabilitySearch.SearchInfo.SearchStations[1].DepartureDate':' 04/03/2019',
+'revAvailabilitySearch.SearchInfo.AdultCount':' 1',
+'revAvailabilitySearch.SearchInfo.ChildrenCount':' 0',
+'revAvailabilitySearch.SearchInfo.InfantCount':' 0',
+'revAvailabilitySearch.SearchInfo.PromoCode':' ',
+#取代開頭^>>>'
+#取代中間:>>>':'
+#取代尾巴$>>>',
